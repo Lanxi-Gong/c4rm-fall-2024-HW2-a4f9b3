@@ -8,3 +8,5 @@ def FizzBuzz(start, finish):
     result[numbers % 5 == 0] = "buzz"
     
     return result.tolist()
+
+x = FizzBuzz(40,45)
