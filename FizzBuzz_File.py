@@ -9,8 +9,3 @@ def FizzBuzz(start, finish):
 
     return objvec
 
-start = 40
-finish = 45
-
-result = FizzBuzz(start, finish)
-print(result)
